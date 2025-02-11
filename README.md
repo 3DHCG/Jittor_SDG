@@ -3,4 +3,4 @@ Code based on Jittor framework.
 
 Demo Link！[SASDG demo](https://www.bilibili.com/video/BV1Xy4qeQEmj)
 
-## 1.Installation
+## 1. Installation
