@@ -23,7 +23,7 @@ conda env create -f environment.yml
 python train.py --batch_size 128  --epochs 2000 --feature_type jukebox
 ```
 
-## 2. Testing（测试）
+## 3. Testing（测试）
 ```shell
 python test_by_text.py --music_dir ./data/test/music --save_motions --text_prompt 'raise up both hands'
 ```
