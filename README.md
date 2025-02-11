@@ -5,3 +5,10 @@ Demo Link！[SASDG demo](https://www.bilibili.com/video/BV1Xy4qeQEmj)
 
 
 ## 1. Installation
+
+### 1. Requirements
+- **An NVIDIA GPU**. All shown results come from an RTX 3090.
+-  **Python**. python 3.9 is recommended.
+-  **Jittor**. Refer to [link](https://github.com/Jittor/jittor) to install jittor as recommended.
+
+### 2. Install other dependencies 
