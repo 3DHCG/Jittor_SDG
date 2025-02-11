@@ -13,3 +13,7 @@ Demo Link！[SASDG demo](https://www.bilibili.com/video/BV1Xy4qeQEmj)
 
 ### 2. Install other dependencies 
 Install the basic environment under the SASDG repo:
+```shell
+# Editable install, with dependencies from environment.yml
+conda env create -f environment.yml
+```
