@@ -12,3 +12,4 @@ Demo Link！[SASDG demo](https://www.bilibili.com/video/BV1Xy4qeQEmj)
 -  **Jittor**. Refer to [link](https://github.com/Jittor/jittor) to install jittor as recommended.
 
 ### 2. Install other dependencies 
+Install the basic environment under the SASDG repo:
